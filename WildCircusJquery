@@ -1,0 +1,35 @@
+$(document).ready(function() {
+
+
+	$('.loading-2').hide();
+	$('.container-description').hide();
+	$('.container-artists').hide();
+  
+	$('.loading').find('.logo-loading').animate({ 
+		rotate: 10
+	},3000, "linear", function () {
+  
+		$('.loading').fadeOut();
+		$('.loading-2').fadeIn();
+	});
+  
+	$('.loading-2').find('.to-description').click( function(){
+		$('.loading-2').fadeOut();
+		$('.container-description').fadeIn();
+	});
+  
+  
+	$('.container-description').find('.display-artists').click( function(){
+		$('.container-artists').slideToggle();
+    
+    
+		var buttonchange = $(this);
+		if(buttonchange.text() == "See our wonderfuls artists") {
+			buttonchange.text('Hide our wonderfuls artists');
+		} else {
+			buttonchange.text('See our wonderfuls artists');
+		}
+	});
+});
+
+// ( Using Jquery 3.1.1. ) 
