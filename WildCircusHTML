@@ -1,0 +1,57 @@
+		<header>
+			<h1>Wild Circus Show</h1>
+			<h2>The greatest circus in the world , around the world</h2>
+		</header>
+		<main>
+    
+			<div class="loading"> 
+			<img src="http://vps124271.ovh.net/IMAGES/CandyTournLoad.png" class="logo-loading" alt=" ">
+				<h3>Performance Loading ...</h3>
+			</div>
+      
+			<div class="loading-2">
+				<img src="http://vps124271.ovh.net/IMAGES/CircusEnter.svg" alt=" ">
+				<button class="to-description">Let's Go !</button>
+			</div>
+      
+			<div class="container-description">
+				<h3 class="description-title">About Us</h3>
+				<p class="circus-description">
+					The Wild Circus was created in since 70' by Sega Delavega (said) Buffalo Bill.Jr.He was a big fan of magic, him wanted thus to go up his own empire dice the age of 19 years, will thus make a world tour to convince and find the best artists any confused domain.</p>
+				
+				<p class="circus-description">
+        He created then Wild Circus, surrounded with Dan the Ax, Tommy the Clown,Joe the trapeze and well on his troops of wildcats.</p>
+				
+				<button class="display-artists">See the Hodor here!!</button>
+					<div class="container-artists">
+						<section>
+							<h3 class="title-artist">Dan the Axx</h3>
+							<img src="http://www.lapetitebrique.com/2326-5222-thickbox/lego-accessoires-custom-brick-warriors-hache-de-gladiateur-couleur-charcoal.jpg" class="logo-artist" alt=" ">
+							<p class="text-artist">
+								Dan the Axx. He specialized In juggling knife, and ax since his very young age, his style and his mastery will take you in a whirlwind of sensation.
+							</p>
+						</section>
+						<section>
+							<h3 class="title-artist">Tommy the Clown</h3>
+							<img src="https://media4.giphy.com/media/8jUeyfpMF6gj6/200_s.gif" class="logo-artist" alt=" ">
+							<p class="text-artist">
+								Tommy the Clown is one-off.It alternates between moments of tenderness and melancholy with moments of joy and madness, the public participates greatly at that time.
+							</p>
+						</section>
+						<section>
+							<h3 class="title-artist">Jane the Trapeze</h3>
+							<img src="http://pre12.deviantart.net/0665/th/pre/i/2012/270/4/b/trapezist_by_nagmerriecircus-d5g170r.jpg" class="logo-artist" alt=" ">
+							<p class="text-artist">
+								Jane, has a trapeze , It takes place just 2 meters above the audience giving a fabulous impression of speed and grace.
+							</p>
+						</section>
+					</div>
+				<h3 class="see-you-later">You can come see us whenever you want!</h3>
+			</div>
+		</main>
+		<footer>
+			<small>
+				By Sega Hurricane8
+			</small>
+			<a href="http://www.robozzle.com/user.aspx?name=v4lou" class="robozzle-link-profile">My RoboZZle Profile</a>
+		</footer>
